@@ -20,7 +20,9 @@ Seeing as how e-commerce is the largest sector of the electronics industry, I de
 In order to make use of this application, all one needs to do is clone the repository to their local device. Run "mysql -u root -p". Then source the schema.sql module and run "npm run seed". Last but not least, run "npm start" to begin!
 
 
-![]()
+![Demo Gif](./Commercify.gif)
+
+[Link to Demo](https://drive.google.com/file/d/1YGaaVcUPF4P8lx4dLjXetlq4HA72o-k_/view?usp=sharing)
 
 
 ## Learning Points
